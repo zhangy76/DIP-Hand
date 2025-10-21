@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+torch_scatter
+pyrender
+trimesh
+opencv-python
+openmesh      
