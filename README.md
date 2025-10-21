@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Model and Data Download
-Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/ab8cj056uwkuxjvq45vu3/AL4D_FiWBXJHGnlKOCGgM_Y?rlkey=fks8lfsvk72tkdsi92fu57thm&dl=0) and [example_data](https://www.dropbox.com/scl/fo/922lr9ig7suver4bpmc52/AJhO5U0cQ2sCR72HXjN16Mg?rlkey=1j18bxeccwcrj067hglq6el1k&dl=0) and put them in the current directory. 
+Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/lmtcud0t3pv66msea5mpe/AIjhSD534aW9a3t49lRxnI4?rlkey=kbsny5u9fc3ngdwqcrv9l1619&dl=0) and [example_data](https://www.dropbox.com/scl/fo/cnbmpntkworemifgh2p1p/AD9AfnAJ2VFJ1fqpLQYIUso?rlkey=wj4ei68huu3h9bcs8gjiffb7r&dl=0) and put them in the current directory. 
 
 ## Evaluation on a Video
 ```bash
