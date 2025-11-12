@@ -1,4 +1,4 @@
-# **<ins>IPHand</ins>: Diffusion-based 3D Hand Motion Recovery with Intuitive Physics** <br />
+# **<ins>DIP-Hand</ins>: Diffusion-based 3D Hand Motion Recovery with Intuitive Physics** <br />
   [Yufei Zhang](https://zhangy76.github.io/), Zijun Cui, Jeffrey O. Kephart, Qiang Ji <br /> 
   ICCV2025, [arXiv](https://www.arxiv.org/pdf/2508.01835) <br />
 ![](teaser.png)
