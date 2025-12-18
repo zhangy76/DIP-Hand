@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 
 ## Model and Data Download
-Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/lmtcud0t3pv66msea5mpe/AIjhSD534aW9a3t49lRxnI4?rlkey=kbsny5u9fc3ngdwqcrv9l1619&dl=0) and [example_data](https://www.dropbox.com/scl/fo/cnbmpntkworemifgh2p1p/AD9AfnAJ2VFJ1fqpLQYIUso?rlkey=wj4ei68huu3h9bcs8gjiffb7r&dl=0) and put them in the current directory. 
+Please download the required data and trained model [assets](https://www.dropbox.com/scl/fo/lmtcud0t3pv66msea5mpe/AIjhSD534aW9a3t49lRxnI4?rlkey=kbsny5u9fc3ngdwqcrv9l1619&dl=0) (due to license restrictions, please download the MANO model ./assets/processed_MANO_LEFT.pkl and ./assets/processed_MANO_RIGHT.pkl from the [official website](https://mano.is.tue.mpg.de/)) and [example_data](https://www.dropbox.com/scl/fo/cnbmpntkworemifgh2p1p/AD9AfnAJ2VFJ1fqpLQYIUso?rlkey=wj4ei68huu3h9bcs8gjiffb7r&dl=0) and put them in the current directory. 
 
 ## Evaluation on a Video
 ```bash
